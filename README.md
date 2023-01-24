@@ -1,1 +1,1 @@
-# OtagoMFincTemplate
+# OtagoTemplates
